@@ -1,0 +1,50 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "license": "https://spdx.org/licenses/MIT",
+    "codeRepository": "https://github.com/KatLily-74656/simple-api",
+    "dateCreated": "2022-06-09",
+    "datePublished": "2022-06-09",
+    "dateModified": "2022-06-09",
+    "downloadUrl": "https://github.com/KatLily-74656/simple-api/archive/refs/tags/v1.0.0.zip",
+    "issueTracker": "https://github.com/KatLily-74656/simple-api/issues",
+    "name": "Simple-API",
+    "version": "1.0.0",
+    "description": "This is a simple API you can send requests to.",
+    "releaseNotes": "https://github.com/KatLily-74656/simple-api/releases/tag/v1.0.0",
+    "programmingLanguage": [
+        "JavaScript"
+    ],
+    "runtimePlatform": [
+        "Node.js"
+    ],
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "MacOS"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Katharina",
+            "familyName": "Gönner",
+            "email": "katharina.goenner@tik.uni-stuttgart.de",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Stuttgart"
+            }
+        }
+    ],
+    "contributor": [
+        {
+            "@type": "Person",
+            "givenName": "Katharina",
+            "familyName": "Gönner",
+            "email": "katharina.goenner@tik.uni-stuttgart.de",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Stuttgart"
+            }
+        }
+    ]
+}
