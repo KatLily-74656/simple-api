@@ -1,5 +1,7 @@
 # Simple-API
 
+[![](<https://img.shields.io/badge/Dataverse DOI-10.18419/darus--2988-blue>)](https://www.doi.org/10.18419/darus-2988)
+
 This is a Repo for a simple API. 
 
 ## Small Node App: Simple API
