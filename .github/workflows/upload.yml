@@ -9,8 +9,8 @@ jobs:
       - name: Send Repo to DaRUS 
         uses: IQSS/dataverse-uploader@master
         with:
-          DATAVERSE_TOKEN: ${{secrets.DATAVERSE_API_TOKEN}}
-          DATAVERSE_SERVER: https://darus.uni-stuttgart.de
-          DATAVERSE_DATASET_DOI: doi:10.18419/darus-2990
-          DELETE: True
+          DATAVERSE_TOKEN: ${{secrets.DATAVERSE_TOKEN}}
+          DATAVERSE_SERVER: https://demo.dataverse.org
+          DATAVERSE_DATASET_DOI: doi:10.70122/FK2/JDTKIL
+          DELETE: False
           PUBLISH: True
