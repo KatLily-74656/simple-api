@@ -13,4 +13,4 @@ jobs:
           DATAVERSE_SERVER: https://darus.uni-stuttgart.de
           DATAVERSE_DATASET_DOI: doi:10.18419/darus-2988
           DELETE: True
-          PUBLISH: False
+          PUBLISH: True
