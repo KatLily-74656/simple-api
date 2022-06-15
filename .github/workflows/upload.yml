@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Send Repo to DaRUS 
-        uses: IQSS/dataverse-uploader@v1.2
+        uses: IQSS/dataverse-uploader@v1.1
         with:
           DATAVERSE_TOKEN: ${{secrets.DATAVERSE_API_TOKEN}}
           DATAVERSE_SERVER: https://darus.uni-stuttgart.de
